@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
         </dt>
         <dt>
         <a href="https://www.linkedin.com/in/shah-nawaz/">
-            <img src="link.png" alt="LinkedIn">
+            <img src="LinkedIn-Blue-26-┬«@2x.png" alt="LinkedIn">
         </a>
         </dt>
         </dl>
