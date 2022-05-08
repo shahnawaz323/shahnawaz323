@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="toprow">
     <div align="left">
-        <img align="left" width="60%" src="assets/yt_views.png">
+        <img align="left" width="60%" src="SCR-20220508-nae.jpeg">
     </div>
     <div align="right">
         <h2>🤝 Connect with me</h2>
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
         </dt>
         <dt>
         <a href="https://www.linkedin.com/in/shah-nawaz/">
-            <img src="assets/linkedin.svg" alt="LinkedIn">
+            <img src="linkedin.svg" alt="LinkedIn">
         </a>
         </dt>
         </dl>
